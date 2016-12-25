@@ -18,7 +18,7 @@ char input_str[4];
 
 int MenuIndex;
 
-u32 amiibo_appid = 0x10110E00; // Hardcoded for Super Smash Bros. See https://www.3dbrew.org/wiki/Amiibo for more details
+u32 amiibo_appid = 0x0014F000; // Hardcoded for Super Smash Bros. See https://www.3dbrew.org/wiki/Amiibo for more details
 
 static char *fb_buffer = NULL;
 
